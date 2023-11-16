@@ -14,7 +14,7 @@ I love studying, teaching and... coding. My favorite programming language is Pyt
   
 - ☕ **Java Enthusiast:** In addition to Python and C/C++, I also have a strong background in Java. You can explore some of my older academic projects in Java on my GitHub profile.
 
-- 🧱 **Robotics and RL in Lego EV3**: Some projects that enables using EV3 as a research robotic plataform for testing some algorithms.Some involve robot movements on graphs drawn on the floor, while others integrate RL algorithms for demonstrations. Explore the code here: [swarm_ev3](https://github.com/pablo-sampaio/swarm_ev3).
+- 🧱 **Robotics and RL in Lego EV3**: Some projects that enable using EV3 as a research robotic plataform for testing some elementary algorithms. Some involve robot movements on graphs drawn on the floor, while others integrate RL algorithms for demonstrations. Explore the code here: [swarm_ev3](https://github.com/pablo-sampaio/swarm_ev3).
 
 
 ## Continuous Learning
