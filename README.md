@@ -3,16 +3,18 @@
 
 Hi there, I'm Pablo Azevedo Sampaio, an Associate Professor at Universidade Federal Rural de Pernambuco in Recife, Brazil. 🇧🇷
 
-I love studying, teaching and... coding. My favorite programming language is Python 🐍. My primary focus and interest now lie in the exciting world of **Reinforcement Learning** projects.
+I love studying, teaching and... coding. My favorite programming language is Python 🐍. My primary focus and interest now lie in the exciting world of **Reinforcement Learning (RL)** projects.
 
 
 ## Featured Projects
 
-- 🤖 **Reinforcement Learning Made Easy in Python**: I've created a comprehensive project with step-by-step instructions, making Reinforcement Learning accessible to Portuguese-speaking enthusiasts. Dive into the world of RL with this project: [rl_facil](https://github.com/pablo-sampaio/rl_facil).
+- 🤖 **Reinforcement Learning (RL) Made Easy in Python:** I've created a comprehensive project with step-by-step instructions, making Reinforcement Learning accessible to Portuguese-speaking enthusiasts. Dive into the world of RL with this project: [rl_facil](https://github.com/pablo-sampaio/rl_facil).
 
 - 📦 **Arduino & PlatformIO Project:** I've created an open-source C/C++ project that you can find on GitHub. It's all about RFID with MFRC522. Check it out here: [easy_mfrc522](https://github.com/pablo-sampaio/easy_mfrc522).
-
+  
 - ☕ **Java Enthusiast:** In addition to Python and C/C++, I also have a strong background in Java. You can explore some of my older academic projects in Java on my GitHub profile.
+
+- 🧱 **Robotics and RL in Lego EV3**: Some projects that enables using EV3 as a research robotic plataform for testing some algorithms.Some involve robot movements on graphs drawn on the floor, while others integrate RL algorithms for demonstrations. Explore the code here: [swarm_ev3](https://github.com/pablo-sampaio/swarm_ev3).
 
 
 ## Continuous Learning
