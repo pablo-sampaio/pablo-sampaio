@@ -19,7 +19,7 @@ I love studying, teaching and... coding. My favorite programming language is Pyt
 
 I have a deep love for learning and see myself as a lifelong student before an educator. 📚
 
-My passion lies in sharing knowledge with both my students and the global community. 🌍
+But I also love teaching and sharing knowledge in any form! 👨‍🏫
 
 
 ## Personal interests
