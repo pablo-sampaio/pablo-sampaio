@@ -12,7 +12,7 @@ I love studying, teaching and... coding. My favorite programming language is Pyt
 
 - 📦 **Arduino & PlatformIO Project:** I've created an open-source C/C++ project that you can find on GitHub. It's all about RFID with MFRC522. Check it out here: [easy_mfrc522](https://github.com/pablo-sampaio/easy_mfrc522).
   
-- ☕ **Java Enthusiast:** In addition to Python and C/C++, I also have a strong background in Java. You can explore some of my older academic projects in Java on my GitHub profile.
+- ☕ **Java Friend Too:** In addition to Python and C/C++, I also have a strong background in Java. You can explore some of my older academic projects in Java on my GitHub profile.
 
 - 🧱 **Robotics and RL in Lego EV3**: Some projects that enable using EV3 as a research robotic plataform for testing some elementary algorithms. Some involve robot movements on graphs drawn on the floor, while others integrate RL algorithms for demonstrations. Explore the code here: [swarm_ev3](https://github.com/pablo-sampaio/swarm_ev3).
 
