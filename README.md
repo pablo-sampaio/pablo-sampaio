@@ -3,7 +3,7 @@
 
 Hi there, I'm Pablo Azevedo Sampaio, an Associate Professor at Universidade Federal Rural de Pernambuco in Recife, Brazil. 🇧🇷
 
-I love studying, teaching and coding. Currently, I mostly use Python 🐍 in Artificial Intelligence projects. I also have developed Java and C++ projects too. These are the areas of AI that I work on: **Reinforcement Learning (RL)**, **Agentic Systems** and **Inteligent Agents** in its most broad sense.
+I love studying, teaching and coding. Currently, I mostly use Python 🐍 in Artificial Intelligence projects. I also have developed Java and C++ projects too. These are the areas of AI that I work on: **Reinforcement Learning (RL)**, **Agentic Systems** and **Intelligent Agents** in its most broad sense.
 
 
 ## Featured Projects
